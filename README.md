@@ -5,7 +5,7 @@ Hi 👋 My name is Salar Rezaee
 Frontend Developer (React js)
 -----------------------------
 
-i\`ve be coding for 2 years and always exsidted to be learning new things in my stack
+I've been coding for 2 years and always excited to be learning new things in my stack.
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [My Website](http://salarrezaee.ir)
